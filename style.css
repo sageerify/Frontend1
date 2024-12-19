@@ -1,0 +1,8 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+main{
+    background-image: url("images\bg.png");
+    height: 80vh;
+}
